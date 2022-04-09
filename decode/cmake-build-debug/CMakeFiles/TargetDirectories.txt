@@ -1,0 +1,3 @@
+/home/vairosoft/burak/Workstation/my-apps/FinalProjectV2.0.0/decode/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/vairosoft/burak/Workstation/my-apps/FinalProjectV2.0.0/decode/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/vairosoft/burak/Workstation/my-apps/FinalProjectV2.0.0/decode/cmake-build-debug/CMakeFiles/decode.dir

@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/decode.dir/main.cpp.o  -o decode 

@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/vairosoft/burak/Workstation/my-apps/FinalProjectV2.0.0/encode/main.cpp
+iostream
+-
+string.h
+-
+bits/stdc++.h
+-
+map
+-
+fstream
+-
+filesystem
+-
+

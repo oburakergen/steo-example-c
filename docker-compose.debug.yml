@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  steoexamplec:
+    image: steoexamplec
+    build:
+      context: .
+      dockerfile: ./Dockerfile
